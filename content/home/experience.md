@@ -22,15 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  # - title: Career Break
-  #  company: 
-  #  company_url: ''
-  #  company_logo: ''
-  #  location: ''
-  #  date_start: '2020-01-01'
-  #  date_end: ''
-  #  description:
-       
   - title: Research Intern
     company: NIOZ Royal Netherlands Institute for Sea Research
     company_url: ''
