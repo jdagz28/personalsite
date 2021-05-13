@@ -92,11 +92,15 @@ Create repository. Click the green `Code` button and copy the highlighted part.
 
 ![](RepositorySSH.jpg)
 
+
+## Starting your website project
+
+
  In **RStudio**, create a New Project. *File > New Project > * ***Version Control > Git***.
  
  ![](NewProject.jpg)
 
-Now, we can clone your Git repository. Supply the repository URL you copied from GitHub. Project directory name will automatically show the repository name. If you want to change the local location, click ***Browse*** and locate the folder where you want to store your project. *Take note that you will note be moving this directory as it might create problems*.
+Clone your Git repository by supplying the repository URL you copied from GitHub. Project directory name will automatically show the repository name. If you want to change the local location, click ***Browse*** and locate the folder where you want to store your project. *Take note that you do not want to be moving this directory as it might create problems of your project in your machine*.
 
  ![](NewProjectGIT.jpg)
  
