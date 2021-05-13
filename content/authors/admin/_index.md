@@ -41,7 +41,9 @@ title: Joshua Dagoy
 
 Joshua Dagoy obtained his undergraduate degree in Marine Biology from the University of San Carlos (Philippines) in 2011. He received his master’s degree in Marine Environment and Resources in 2019 through an Erasmus Mundus scholarship from three European universities: University of Bordeaux (France), University of the Basque Country (Spain), and the University of Liege (Belgium).
 
-He developed his passion for marine life an early young age. Growing up in a coastal village, he spent his leisure time in the beach which sparked interests and curiosity about marine life. 
-		
-He had worked as a marine biologist at the Department of Environment and Natural Resources (Central Visayas, Philippines) and as technical research assistant at King Fahd University of Petroleum and Minerals - Center for Environment and Water (Dhahran, Saudi Arabia). He has extensive field and laboratory experience. Also, he has participated in several fisheries cruises in the Saudi Arabian part of the Arabian Gulf.
+He developed his passion for marine life at an early young age. Growing up in a coastal village, he spent his leisure time on the beach which sparked interests and curiosity about marine life.
+
+He had worked as a marine biologist at the Department of Environment and Natural Resources (Central Visayas, Philippines) and as a technical research assistant at King Fahd University of Petroleum and Minerals - Center for Environment and Water (Dhahran, Saudi Arabia). He has extensive field and laboratory experience. He has also participated in several research cruises in the Saudi Arabian part of the Arabian Gulf.
+
+
 

@@ -1,0 +1,86 @@
+---
+title: Creating an academic website in RStudio - Part I
+author: ''
+date: '2021-05-13'
+slug: creating-an-academic-website-in-rstudio
+categories: ["R"]
+tags: ["R", "Markdown", "Git"]
+subtitle: ''
+summary: ''
+authors: ["Joshua Dagoy"]
+lastmod: '2021-05-13T03:34:22+02:00'
+featured: yes
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<p>I have been thinking of creating a personal website focusing on research and academic work. I had previously developed websites (personal and for a small pest control company) using <a href="https://wordpress.org/">WordPress</a> and had it hosted at <a href="http://ehost.com/">eHost</a> (now JustHost) or at <a href="https://www.hostinger.com/">Hostinger</a>. At the time when I created those website, the two web hosting providers had the best deals and came with a free custom domain registration for a year.</p>
+<p>I initially did not know it was possible to create a website in <code>RStudio</code> until I came across of the <code>R</code> package <code>blogdown</code>. So here is how I did this website.</p>
+<div id="pre-requisites" class="section level2">
+<h2>Pre-requisites</h2>
+<ul>
+<li><a href="https://cran.r-project.org/">R</a> and <a href="https://www.rstudio.com/">RStudio</a></li>
+<li>Git</li>
+<li><a href="https://github.com/">GitHub</a> account</li>
+<li><a href="https://www.netlify.com/">Netlify</a> account</li>
+<li><strong><em>Optional:</em></strong> Your custom domain (cost varies depending on the domain name)</li>
+</ul>
+</div>
+<div id="installing-git" class="section level2">
+<h2>Installing <strong>Git</strong></h2>
+<p>First you have to install <code>Git</code> to your computer in order to connect to your <code>GitHub</code> repository.</p>
+<ul>
+<li><strong>Microsoft/Windows</strong> - download <a href="https://gitforwindows.org/">Git</a> for Windows</li>
+<li><strong>Linux</strong> - open the terminal window and run the following code:</li>
+</ul>
+<pre class="bash"><code>sudo apt update
+sudo apt upgrade
+sudo apt install git</code></pre>
+<ul>
+<li><strong>Mac</strong> - install <a href="https://brew.sh/">Homebrew</a> and Git by running the following code:</li>
+</ul>
+<pre class="bash"><code>/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&quot;</code></pre>
+<pre class="bash"><code>brew install git</code></pre>
+</div>
+<div id="setting-up-git-in-rstudio" class="section level2">
+<h2>Setting up <strong>Git</strong> in <strong>RStudio</strong></h2>
+<p>If you have installed R and RStudio before Git, it cannot locate the path of Git and you have to manually configure (in my case). If Git is installed correctly and Rstudio can find it, it can act as Graphical User Interface (GUI) front-end for Git. You do not have to do Git functions in the terminal.</p>
+<p>To locate the <code>PATH</code> of Git, run the following in the terminal or Git Bash (after installing Git for Windows).</p>
+<ul>
+<li><strong>Microsoft/Windows</strong></li>
+</ul>
+<pre class="bash"><code>where git</code></pre>
+<ul>
+<li><strong>Mac/Linux</strong></li>
+</ul>
+<pre class="bash"><code>which git</code></pre>
+<p>If Git is installed, take note of the path.</p>
+<p>Launch <code>RStudio</code>, go to <em>Tools &gt; Global Options &gt; Git/SVN</em>. Locate the <code>PATH</code> of Git. Check the box of ‘Enable version control interface for RStudio projects’. It should look like this:</p>
+<ul>
+<li><strong>Microsoft/Windows</strong> - <code>C:\Program Files\Git\cmd\git.exe</code></li>
+<li><strong>Mac/Linux</strong> - <code>/usr/bin/git</code></li>
+</ul>
+<p><img src="GitRStudio.JPG" /></p>
+<p>Cick the <strong>create RSA key</strong> and <strong><em>copy the public key</em></strong>, which we will need to connect your GitHub account.</p>
+</div>
+<div id="setting-up-github-and-creating-your-website-repository" class="section level2">
+<h2>Setting up <strong>GitHub</strong> and creating your <strong>website repository</strong></h2>
+<p>Now head to <a href="https://github.com/">GitHub</a>. Create an account if you do not have one.</p>
+<p>Go to <em>Settings &gt; SSH and GPG keys</em> and click the green <strong>New SSH key</strong> button and copy the RSA publi</p>
+<p><img src="SSHKey.JPG" /></p>
+<p>Create a new repository. You can add a README file if you want to share your repository publicly.</p>
+<p><img src="CreateRepository.JPG" /></p>
+<p>Create repository. Click the green <code>Code</code> button and copy the highlighted part.</p>
+<p><img src="RepositorySSH.JPG" /></p>
+<p>In <strong>RStudio</strong>, create a New Project. <em>File &gt; New Project &gt; </em> <strong><em>Version Control &gt; Git</em></strong>.</p>
+<p><img src="NewProject.JPG" /></p>
+<p>Now, we can clone your Git repository. Supply the repository URL you copied from GitHub. Project directory name will automatically show the repository name. If you want to change the local location, click <strong><em>Browse</em></strong> and locate the folder where you want to store your project. <em>Take note that you will note be moving this directory as it might create problems</em>.</p>
+<p><img src="NewProjectGIT.JPG" /></p>
+<p>You are now ready to start you personal website project <strong>(Part II)</strong>.</p>
+</div>
