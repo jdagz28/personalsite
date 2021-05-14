@@ -19,7 +19,7 @@ projects: []
 
 I have been thinking of creating a personal website focusing on research and academic work. I had previously developed websites (personal and for a small pest control company) using [WordPress](https://wordpress.org/) and had it hosted at [eHost](http://ehost.com/) (now JustHost) or at [Hostinger](https://www.hostinger.com/). At the time when I created those website, the two web hosting providers had the best deals and came with a free custom domain registration for a year. 
 
-I initially did not know it was possible to create a website in `RStudio` until I came across of the `R` package `blogdown`. So here is how I did this website.
+I initially did not know it was possible to create a website in **RStudio** until I came across of the `R` package `blogdown`. So here is how I did this website.
 
 ## Pre-requisites
 * [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/)
