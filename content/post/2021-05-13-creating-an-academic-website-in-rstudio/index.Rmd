@@ -64,7 +64,7 @@ where git
 which git
 ``` 
 
-If Git is installed, take note of the path.
+If Git is installed, it will show the address of Git. Take note of this `PATH`. 
 
 Launch `RStudio`, go to *Tools > Global Options > Git/SVN*. Locate the `PATH` of Git. Check the box of 'Enable version control interface for RStudio projects'. It should look like this: 
 
@@ -80,7 +80,7 @@ Cick the **create RSA key** and ***copy the public key***, which we will need to
 
 Now head to [GitHub](https://github.com/). Create an account if you do not have one. 
 
-Go to *Settings > SSH and GPG keys* and click the green **New SSH key** button and copy the RSA publi
+Go to *Settings > SSH and GPG keys* and click the green ***New SSH key*** button and copy the RSA public key. 
 
 ![](SSHKey.jpg)
 
