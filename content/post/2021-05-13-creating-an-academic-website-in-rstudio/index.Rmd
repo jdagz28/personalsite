@@ -66,7 +66,7 @@ which git
 
 If Git is installed, it will show the address of Git. Take note of this `PATH`. 
 
-Launch `RStudio`, go to *Tools > Global Options > Git/SVN*. Locate the `PATH` of Git. Check the box of 'Enable version control interface for RStudio projects'. It should look like this: 
+Launch **RStudio**, go to *Tools > Global Options > Git/SVN*. Locate the `PATH` of Git. Check the box of 'Enable version control interface for RStudio projects'. It should look like this: 
 
 * **Microsoft/Windows** - `C:\Program Files\Git\cmd\git.exe`
 * **Mac/Linux** - `/usr/bin/git`
