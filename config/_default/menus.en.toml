@@ -24,18 +24,13 @@
 [[main]]
   name = "Research"
   pageRef = "research"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "CV"
   pageRef = "cv"
-  weight = 30
+  weight = 40
  
- [[main]]
-  name = "Contact Me"
-  pageRef = "contact"
-  weight = 50
-
 [[main]]
   identifier = "search"
   weight = 99
