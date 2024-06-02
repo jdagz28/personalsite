@@ -1,17 +1,17 @@
 [build]
-  command = "hugo --gc --minify -D -b $URL"
-  publish = "public"
+command = 'hugo'
+publish = 'public'
 
 [build.environment]
-HUGO_VERSION = "0.119.0"
-HUGO_THEMESDIR = "../.."
-HUGO_THEME = "repo"
+HUGO_VERSION = '0.121.1'
 
-[context.production.environment]
-HUGO_ENV = "production"
+[context]
+[context.branch-deploy]
+command = 'hugo -F -b $DEPLOY_PRIME_URL'
 
 [context.deploy-preview]
-command = "hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
+command = 'hugo -F -b $DEPLOY_PRIME_URL'
 
-[context.branch-deploy]
-command = "hugo --gc --minify -D -b $DEPLOY_PRIME_URL"
+[context.production]
+[context.production.environment]
+HUGO_ENV = 'production'
