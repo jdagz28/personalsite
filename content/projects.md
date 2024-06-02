@@ -10,9 +10,9 @@ Below are some of my coding projects.
 ### [minishell](https://github.com/jdagz28/Minishell)
 ### [fdf](https://github.com/jdagz28/fdf)
 
-### [voting app, an app using multiple Docker containers](/projects/voting-app.md)
+### [Voting App, An App Using Multiple Docker Containers](/projects/voting-app.md)
 
 <img src="https://raw.githubusercontent.com/jdagz28/voting-app/main/images/vote.png" alt="Sample Project 1">
 
-### [finance, a stock portfolio website](/projects/finance.md)
+### [Finance, A Stock Portfolio Website](/projects/finance.md)
 <img src="https://raw.githubusercontent.com/jdagz28/finance/main/images/index.png" alt="Finance">

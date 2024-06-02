@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to the Personal Website of Joshua Dagoy on Joshua Dagoy</title>
-    <link>http://localhost:6320/</link>
+    <link>http://localhost:3431/</link>
     <description>Recent content in Welcome to the Personal Website of Joshua Dagoy on Joshua Dagoy</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:6320/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3431/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docker Example Voting App</title>
-      <link>http://localhost:6320/projects/voting-app/</link>
+      <title>Voting App, An App Using Multiple Docker Containers</title>
+      <link>http://localhost:3431/projects/voting-app/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6320/projects/voting-app/</guid>
+      <guid>http://localhost:3431/projects/voting-app/</guid>
       <description>This repository is a clone of dockersamples/example-voting-app, created for learning and experimenting with Docker containers.</description>
     </item>
     <item>
-      <title>Finance, A Stock Portfolio</title>
-      <link>http://localhost:6320/projects/finance/</link>
+      <title>Finance, A Stock Portfolio Website</title>
+      <link>http://localhost:3431/projects/finance/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6320/projects/finance/</guid>
+      <guid>http://localhost:3431/projects/finance/</guid>
       <description>View the full assignment description on CS50&amp;rsquo;s OpenCourseWare.</description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:6320/blog/</link>
+      <link>http://localhost:3431/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6320/blog/</guid>
+      <guid>http://localhost:3431/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>My Entries for TidyTuesday</title>
-      <link>http://localhost:6320/dataviz/</link>
+      <link>http://localhost:3431/dataviz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6320/dataviz/</guid>
+      <guid>http://localhost:3431/dataviz/</guid>
       <description>TidyTuesday is a weekly data project aimed at the R community, where participants work with real-world datasets.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:6320/projects/</link>
+      <link>http://localhost:3431/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6320/projects/</guid>
+      <guid>http://localhost:3431/projects/</guid>
       <description>Below are some of my coding projects.</description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:6320/research/</link>
+      <link>http://localhost:3431/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6320/research/</guid>
+      <guid>http://localhost:3431/research/</guid>
       <description>Rabaoui, L.</description>
     </item>
   </channel>

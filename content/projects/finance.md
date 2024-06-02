@@ -1,12 +1,10 @@
 ---
 description: Finance, Week 9 Flask Project
-title: Finance, A Stock Portfolio
+title: Finance, A Stock Portfolio Website
 date: 20 May 2024
 ---
 
 View the full assignment description on [CS50's OpenCourseWare](https://cs50.harvard.edu/x/2024/psets/9/finance/).
-
-[GitHub Repository](https://github.com/jdagz28/finance)
 
 ![User index](https://raw.githubusercontent.com/jdagz28/finance/main/images/index.png)
 
@@ -73,3 +71,5 @@ Allows users to sell shares of owned stocks.
 ### history
 
 Displays a table summarizing all user transactions, including buys and sells, with details such as stock symbol, price, number of shares, and transaction date/time.
+
+[GitHub Repository](https://github.com/jdagz28/finance)

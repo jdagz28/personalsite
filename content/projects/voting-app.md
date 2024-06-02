@@ -1,6 +1,6 @@
 ---
 description: A simple distributed application running across multiple Docker containers.
-title: Docker Example Voting App
+title: Voting App, An App Using Multiple Docker Containers
 date: 24 May 2024
 ---
 
