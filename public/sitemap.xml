@@ -4,18 +4,31 @@
   
     
       <url>
-            <loc>//localhost:7744/dataviz/</loc>
+            <loc>http://localhost:6320/dataviz/</loc>
             <lastmod>2024-05-31T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:7744/</loc>
+            <loc>http://localhost:6320/</loc>
             <lastmod>2024-05-31T00:00:00+00:00</lastmod>
           </url>
     
   
+    
+      <url>
+            <loc>http://localhost:6320/projects/finance/</loc>
+            <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:6320/projects/</loc>
+          </url>
     
   
     
