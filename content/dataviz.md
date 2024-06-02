@@ -1,11 +1,9 @@
 ---
 title: "My Entries for TidyTuesday"
-author: "Your Name"
+author: "Joshua Dagoy"
 date: "2024-06-02"
 output: blogdown::html_document
 ---
-
-# My Entries for #TidyTuesday
 [TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master) is a weekly data project aimed at the R community, where participants work with real-world datasets. Below are my contributions to TidyTuesday challenges over the years.
 
 ## 2024
