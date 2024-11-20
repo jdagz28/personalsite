@@ -16,14 +16,25 @@ layout: simple
   <img src="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2022/Week22.png" alt="Lisa's Vegetable Garden">
 </a>
 
-### [Week 27 - TidyTuesday's Data Variables and Observations {ttmeta}](./2024/Week%2027/)
-<img src="./2024/Week 27/Week27.png" alt="TidyTuesday's Data Variables and Observations">
+### Week 22 - Lisa's Vegetable Garden {gardenR}
+<a href="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2022/Week22.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2022/Week22.png" alt="Lisa's Vegetable Garden">
+</a>
 
-### [Week 28 - Top R Functions Used by David Robinson {funspotr}](./2024/Week%2028/)
-<img src="./2024/Week 28/Week28.png" alt="David Robinson's favorite R functions">
+### Week 27 - TidyTuesday's Data Variables and Observations {ttmeta}
+<a href="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2027/Week27.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2027/Week27.png" alt="TidyTuesday's Data Variables and Observations">
+</a>
 
-### [Week 29 - English Women's Football](./2024/Week%2029/)
-<img src="./2024/Week 29/Week29.png" alt="English Women's Football top scorer club">
+### WWeek 28 - Top R Functions Used by David Robinson {funspotr}
+<a href="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2028/Week28.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2028/Week28.png" alt="David Robinson's favorite R functions">
+</a>
+
+### Week 29 - English Women's Football
+<a href="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2029/Week29.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2029/Week29.png" alt="English Women's Football top scorer club">
+</a>
 ---
 
 ## 2022
