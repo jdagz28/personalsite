@@ -16,6 +16,14 @@ layout: simple
   <img src="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2022/Week22.png" alt="Lisa's Vegetable Garden">
 </a>
 
+### [Week 27 - TidyTuesday's Data Variables and Observations {ttmeta}](./2024/Week%2027/)
+<img src="./2024/Week 27/Week27.png" alt="TidyTuesday's Data Variables and Observations">
+
+### [Week 28 - Top R Functions Used by David Robinson {funspotr}](./2024/Week%2028/)
+<img src="./2024/Week 28/Week28.png" alt="David Robinson's favorite R functions">
+
+### [Week 29 - English Women's Football](./2024/Week%2029/)
+<img src="./2024/Week 29/Week29.png" alt="English Women's Football top scorer club">
 ---
 
 ## 2022
@@ -54,3 +62,4 @@ layout: simple
 <a href="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2022/Week35/pellgrants-resize.png" target="_blank">
   <img src="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2022/Week35/pellgrants-resize.png" alt="Pell Grants">
 </a>
+
