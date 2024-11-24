@@ -16,11 +16,6 @@ layout: simple
   <img src="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2022/Week22.png" alt="Lisa's Vegetable Garden">
 </a>
 
-### Week 22 - Lisa's Vegetable Garden {gardenR}
-<a href="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2022/Week22.png" target="_blank">
-  <img src="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2022/Week22.png" alt="Lisa's Vegetable Garden">
-</a>
-
 ### Week 27 - TidyTuesday's Data Variables and Observations {ttmeta}
 <a href="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2027/Week27.png" target="_blank">
   <img src="https://raw.githubusercontent.com/jdagz28/TidyTuesday/main/2024/Week%2027/Week27.png" alt="TidyTuesday's Data Variables and Observations">
